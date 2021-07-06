@@ -1,1 +1,1 @@
-# rsschool-cv
+[Markdown CV link](https://kirilllitoshko.github.io/rsschool-cv/cv)
