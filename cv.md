@@ -28,3 +28,17 @@ Skills
 Code Examples
 -------------------------
 [Test App](https://github.com/KirillLitoshko/catalog-aio) - Test application with aiohttp using (in progress)
+
+
+Employment
+-------------------------
+**Dec 2014 - Jan 2020**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Commodity expert**
+
+* Administration of databases and 1C
+
+
+**Nov 2020 - Present**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Programmer**
+
+* Administration of databases
+* Working with a client bank into banking systems
+* Development of the management reporting system
