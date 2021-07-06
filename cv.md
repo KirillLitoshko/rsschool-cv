@@ -42,3 +42,13 @@ Employment
 * Administration of databases
 * Working with a client bank into banking systems
 * Development of the management reporting system
+
+
+Education
+-------------------------
+2010-2013 Homiel Trade and Economic College
+
+
+English
+-------------------------
+A2 (Pre-Intermediate)
