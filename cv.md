@@ -23,3 +23,8 @@ Skills
 * PostgreSQL, Redis
 * Python, aiohttp
 * SQLAlchemy
+
+
+Code Examples
+-------------------------
+[Test App](https://github.com/KirillLitoshko/catalog-aio) - Test application with aiohttp using (in progress)
